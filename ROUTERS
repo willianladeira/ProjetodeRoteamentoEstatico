@@ -72,7 +72,7 @@ login local
 exec-timeout 10
 exit
 interface gigabitEthernet 0/1
-ip address 10.40.10.1 255.255.240.0
+ip address 10.40.16.1 255.255.240.0
 description REDE2-10.40.10.0/20
 no shutdown
 exit
